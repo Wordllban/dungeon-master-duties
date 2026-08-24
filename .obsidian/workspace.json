@@ -11,12 +11,14 @@
             "id": "c685421dcf9a0a8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png"
+                "file": "The most Potent Brew/Подія 3 - Битва з Інферно Павуком.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Карти - Головоломка і вхід до боса"
+              "icon": "lucide-file",
+              "title": "Подія 3 - Битва з Інферно Павуком"
             }
           }
         ]
@@ -200,12 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d05de9da7bebcf35",
+  "active": "c685421dcf9a0a8a",
   "lastOpenFiles": [
+    "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png",
     "The most Potent Brew/Додатки/Карти - Підвал та вхід до коридору з головоломкою.png",
     "The most Potent Brew/Додатки/Карточки нагород у скрині.png",
     "The most Potent Brew/Додатки/Карти - Кімната Інферно Павука.jpg",
-    "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png",
     "The most Potent Brew/Додатки/5. Слайд - Кімната Інферно Павука.jpg",
     "The most Potent Brew/Додатки/4. Слайд - Кімната за розплавленими дверима.jpg",
     "The most Potent Brew/Додатки/2. Слайд - Головоломка.jpg",
