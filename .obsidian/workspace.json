@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "2a53df6799ff575d",
+    "id": "bdd7a39a54c3647e",
     "type": "split",
     "children": [
       {
-        "id": "871f703089bfccb3",
+        "id": "ce9517fcc05ed43e",
         "type": "tabs",
         "children": [
           {
-            "id": "533d7c61e7b446b7",
+            "id": "f6f576f4038847f2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "The most Potent Brew/Гравці/Скалодер/Листок персонажа.pdf"
+                "file": "The most Potent Brew/1.  Вступ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Листок персонажа"
+              "icon": "lucide-file",
+              "title": "1.  Вступ"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9949fb9a6a08ffb4",
+    "id": "5553180e80477d85",
     "type": "split",
     "children": [
       {
-        "id": "4f53efcb76c991fc",
+        "id": "9876f07649fc80e0",
         "type": "tabs",
         "children": [
           {
-            "id": "d05de9da7bebcf35",
+            "id": "40df3f29fe40fa0a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +50,7 @@
             }
           },
           {
-            "id": "d382841d35c2107e",
+            "id": "86a97c3a8140da13",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +67,7 @@
             }
           },
           {
-            "id": "9f11d5d67904a922",
+            "id": "d4ef85feedbc78b0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,24 +86,24 @@
     "width": 300
   },
   "right": {
-    "id": "85e4ad0e11d3fe83",
+    "id": "a713738ef984d399",
     "type": "split",
     "children": [
       {
-        "id": "f0e4cdc2c505f6e8",
+        "id": "1dfbabecd11ddf59",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3f415d53697b32",
+            "id": "960ddf45befd6c9a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
+                "file": "The most Potent Brew/1.  Вступ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -111,12 +113,12 @@
             }
           },
           {
-            "id": "4ba18cbbec3bdf8a",
+            "id": "b75c3f24f71d9a3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
+                "file": "The most Potent Brew/1.  Вступ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -125,7 +127,7 @@
             }
           },
           {
-            "id": "e17956c30ad8e1b8",
+            "id": "315f159a1501e623",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +142,7 @@
             }
           },
           {
-            "id": "caeab12b88b39b97",
+            "id": "272795862f3db740",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,12 +156,12 @@
             }
           },
           {
-            "id": "f9e0b63b9e105472",
+            "id": "6ce99f5609888deb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
+                "file": "The most Potent Brew/1.  Вступ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,7 +171,17 @@
             }
           },
           {
-            "id": "c8551309748b458a",
+            "id": "a9792bafa7889dd0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cf3a75472b51658c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,54 +206,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Import notes": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "533d7c61e7b446b7",
+  "active": "f6f576f4038847f2",
   "lastOpenFiles": [
-    "The most Potent Brew/Гравці/Скалодер/Деталі опису.png",
-    "The most Potent Brew/Гравці/Скалодер/1. Скалодер.md",
-    "The most Potent Brew/Гравці/Скалодер/Листок персонажа.pdf",
-    "The most Potent Brew/Гравці/Саложуй/Листок персонажа.pdf",
-    "The most Potent Brew/Гравці/Саложуй/Саложуй.md",
-    "The most Potent Brew/Гравці/Ешліф Пилокоса/Ashleaf (Ash) Dustbraid _ Еш Пилокоса.pdf",
-    "The most Potent Brew/Гравці/Ніко Seal/Листок персонажа.pdf",
-    "The most Potent Brew/Гравці/Скалодер/Раса - Голіаф.md",
+    "Welcome.md",
+    "The most Potent Brew/Персонажі/Гловкіндл.md",
+    "The most Potent Brew/Лор складова/Місячні ельфи.md",
+    "The most Potent Brew/Додатки/Карти - Підвал та вхід до коридору з головоломкою.png",
+    "The most Potent Brew/Додатки/Карти - Кімната Інферно Павука.jpg",
+    "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png",
     "The most Potent Brew/Додатки/5. Слайд - Кімната Інферно Павука.jpg",
     "The most Potent Brew/Додатки/4. Слайд - Кімната за розплавленими дверима.jpg",
     "The most Potent Brew/Додатки/3. Слайд - Головоломка та розплавлені двері.jpg",
-    "The most Potent Brew/Додатки/2. Слайд - Головоломка.jpg",
     "The most Potent Brew/Додатки/1. Слайд - Підвал з проломаною стіною.jpg",
-    "The most Potent Brew/Зустріч з Гловкіндлом.md",
-    "The most Potent Brew/Гравці/Ешліф Пилокоса",
-    "The most Potent Brew/Гравці/Софа/Ashleaf (Ash) Dustbraid _ Еш Пилокоса.pdf",
-    "The most Potent Brew/Гравці/Ashleaf (Ash) Dustbraid _ Еш Пилокоса.pdf",
-    "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
-    "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png",
-    "The most Potent Brew/Додатки/Карти - Підвал та вхід до коридору з головоломкою.png",
-    "The most Potent Brew/Додатки/Карти - Кімната Інферно Павука.jpg",
+    "The most Potent Brew/Додатки/2. Слайд - Головоломка.jpg",
+    "The most Potent Brew/Вороги/Велитенський пацюк.png",
+    "The most Potent Brew/Вороги/Велитенський пацюк.md",
+    "The most Potent Brew/Вороги/Інферно Павук.jpg",
     "The most Potent Brew/Подія 3 - Битва з Інферно Павуком.md",
     "The most Potent Brew/Подія 2 - Спуск глибше та Головоломка.md",
+    "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
+    "The most Potent Brew/Персонажі",
+    "The most Potent Brew/Лор складова",
+    "The most Potent Brew/Зустріч з Гловкіндлом.md",
+    "The most Potent Brew/Додатки",
+    "The most Potent Brew/Вороги",
     "The most Potent Brew/2. Завершення.md",
-    "The most Potent Brew/1. Вступ.md",
-    "The most Potent Brew/Гравці/Кланк Одновух/Листок персонажа.png",
-    "The most Potent Brew/Додатки/Untitled.md",
-    "The most Potent Brew/Гравці/Кланк Одновух/1. Кланк Одновух.md",
-    "The most Potent Brew/Спуск до погребу.md",
-    "The most Potent Brew/Гравці/Ніко Seal/Ніко Тюлень.md",
-    "The most Potent Brew/Гравці/Скалодер/Деталі опису.md",
-    "The most Potent Brew/Гравці/Кланк Одновух/Раса - Гоблін.md",
-    "The most Potent Brew/Гравці/Саложуй",
-    "The most Potent Brew/Гравці/Ніко Seal",
-    "The most Potent Brew/Гравці/Софа",
-    "The most Potent Brew/Вороги/Велитенський пацюк.md",
-    "The most Potent Brew/Лор складова/Місячні ельфи.md",
-    "The most Potent Brew/Персонажі/Гловкіндл.md",
+    "The most Potent Brew/1.  Вступ.md",
+    "The most Potent Brew",
     "README.md",
-    "dungeon-master-duties/README.md",
-    "Welcome.md"
+    "LICENSE",
+    "Users/kostiantynmininkov/Projects/DnD/LICENSE",
+    "Users/kostiantynmininkov/Projects/DnD",
+    "Users/kostiantynmininkov/Projects",
+    "Users/kostiantynmininkov"
   ]
 }
