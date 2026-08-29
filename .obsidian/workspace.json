@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ce9517fcc05ed43e",
+        "id": "364c1099a1587af5",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f576f4038847f2",
+            "id": "22a529190ba9d0c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The most Potent Brew/1.  Вступ.md",
+                "file": "The most Potent Brew/Подія 2 - Спуск глибше та Головоломка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.  Вступ"
+              "title": "Подія 2 - Спуск глибше та Головоломка"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cdaaf2089eedad76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0608d1a6eb2562",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "The most Potent Brew/Вороги/Інферно Павук.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Інферно Павук"
             }
           }
         ]
@@ -83,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a713738ef984d399",
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The most Potent Brew/1.  Вступ.md",
+                "file": "The most Potent Brew/Подія 2 - Спуск глибше та Головоломка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The most Potent Brew/1.  Вступ.md",
+                "file": "The most Potent Brew/Подія 2 - Спуск глибше та Головоломка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The most Potent Brew/1.  Вступ.md",
+                "file": "The most Potent Brew/Подія 2 - Спуск глибше та Головоломка.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.15625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,38 +229,165 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f576f4038847f2",
+  "floating": {
+    "id": "8e4fac3a91114f6f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "919842784f1abf4d",
+        "type": "window",
+        "children": [
+          {
+            "id": "cd2a15c5f842e960",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6f576f4038847f2",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Додатки/1. Слайд - Підвал з проломаною стіною.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "1. Слайд - Підвал з проломаною стіною"
+                }
+              },
+              {
+                "id": "c74c183f5f477f85",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Додатки/2. Слайд - Головоломка.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "2. Слайд - Головоломка"
+                }
+              },
+              {
+                "id": "1c99e6f25cedf9c3",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Додатки/3. Слайд - Головоломка та розплавлені двері.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "3. Слайд - Головоломка та розплавлені двері"
+                }
+              },
+              {
+                "id": "bf0495c8e08c3bd7",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Додатки/4. Слайд - Кімната за розплавленими дверима.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "4. Слайд - Кімната за розплавленими дверима"
+                }
+              },
+              {
+                "id": "98fd1ae5128bd293",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Додатки/5. Слайд - Кімната Інферно Павука.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "5. Слайд - Кімната Інферно Павука"
+                }
+              },
+              {
+                "id": "01839b183107fb50",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Вороги/Інферно Павук (зображення).jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Інферно Павук (зображення)"
+                }
+              },
+              {
+                "id": "5082f28ddce5bfcc",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "The most Potent Brew/Вороги/Інферно Павук (зображення).jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Інферно Павук (зображення)"
+                }
+              },
+              {
+                "id": "a9a279b0af6aa99e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical",
+        "x": 1739,
+        "y": 82,
+        "width": 1066,
+        "height": 943,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "22a529190ba9d0c1",
   "lastOpenFiles": [
-    "Welcome.md",
-    "The most Potent Brew/Персонажі/Гловкіндл.md",
-    "The most Potent Brew/Лор складова/Місячні ельфи.md",
-    "The most Potent Brew/Додатки/Карти - Підвал та вхід до коридору з головоломкою.png",
-    "The most Potent Brew/Додатки/Карти - Кімната Інферно Павука.jpg",
-    "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png",
-    "The most Potent Brew/Додатки/5. Слайд - Кімната Інферно Павука.jpg",
-    "The most Potent Brew/Додатки/4. Слайд - Кімната за розплавленими дверима.jpg",
-    "The most Potent Brew/Додатки/3. Слайд - Головоломка та розплавлені двері.jpg",
-    "The most Potent Brew/Додатки/1. Слайд - Підвал з проломаною стіною.jpg",
-    "The most Potent Brew/Додатки/2. Слайд - Головоломка.jpg",
-    "The most Potent Brew/Вороги/Велитенський пацюк.png",
-    "The most Potent Brew/Вороги/Велитенський пацюк.md",
-    "The most Potent Brew/Вороги/Інферно Павук.jpg",
+    "The most Potent Brew/2. Завершення.md",
     "The most Potent Brew/Подія 3 - Битва з Інферно Павуком.md",
     "The most Potent Brew/Подія 2 - Спуск глибше та Головоломка.md",
-    "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
-    "The most Potent Brew/Персонажі",
-    "The most Potent Brew/Лор складова",
+    "The most Potent Brew/Додатки/5. Слайд - Кімната Інферно Павука.jpg",
+    "The most Potent Brew/Вороги/Інферно Павук (зображення).jpg",
+    "The most Potent Brew/Вороги/Інферно Павук.jpg",
+    "The most Potent Brew/Додатки/4. Слайд - Кімната за розплавленими дверима.jpg",
     "The most Potent Brew/Зустріч з Гловкіндлом.md",
-    "The most Potent Brew/Додатки",
-    "The most Potent Brew/Вороги",
-    "The most Potent Brew/2. Завершення.md",
+    "The most Potent Brew/Додатки/Карти - Кімната Інферно Павука.jpg",
+    "The most Potent Brew/Додатки/Карти - Головоломка і вхід до боса.png",
+    "The most Potent Brew/Гравці/Кланк Одновух/Листок персонажа.png",
+    "The most Potent Brew/Гравці/Кланк Одновух/Деталі опису.png",
+    "The most Potent Brew/Гравці/Ніко Seal/Ніко Тюлень.md",
+    "The most Potent Brew/Додатки/3. Слайд - Головоломка та розплавлені двері.jpg",
+    "The most Potent Brew/Подія 1 - Підвал та бій з Пацюками.md",
+    "The most Potent Brew/Додатки/2. Слайд - Головоломка.jpg",
     "The most Potent Brew/1.  Вступ.md",
-    "The most Potent Brew",
-    "README.md",
-    "LICENSE",
-    "Users/kostiantynmininkov/Projects/DnD/LICENSE",
-    "Users/kostiantynmininkov/Projects/DnD",
-    "Users/kostiantynmininkov/Projects",
-    "Users/kostiantynmininkov"
+    "The most Potent Brew/Вороги/Велитенський пацюк.md",
+    "The most Potent Brew/Гравці/Саложуй/Листок персонажа.pdf",
+    "The most Potent Brew/Гравці/Ніко Seal/Листок персонажа.pdf",
+    "The most Potent Brew/Персонажі/Гловкіндл.md",
+    "The most Potent Brew/Гравці/Скалодер/Раса - Голіаф.md",
+    "The most Potent Brew/Гравці/Скалодер/Листок персонажа.pdf",
+    "The most Potent Brew/Гравці/Скалодер/Деталі опису.md",
+    "The most Potent Brew/Гравці/Скалодер/1. Скалодер.md",
+    "The most Potent Brew/Гравці/Скалодер",
+    "The most Potent Brew/Гравці/Саложуй/Саложуй.md",
+    "The most Potent Brew/Гравці/Саложуй",
+    "The most Potent Brew/Гравці/Ніко Seal",
+    "The most Potent Brew/Гравці/Кланк Одновух/Раса - Гоблін.md",
+    "The most Potent Brew/Гравці/Кланк Одновух/1. Кланк Одновух.md",
+    "The most Potent Brew/Гравці/Кланк Одновух",
+    "The most Potent Brew/Гравці/Ешліф Пилокоса/Ashleaf (Ash) Dustbraid _ Еш Пилокоса.pdf",
+    "The most Potent Brew/Гравці/Ешліф Пилокоса",
+    "The most Potent Brew/Гравці",
+    "Welcome.md",
+    "The most Potent Brew/Лор складова/Місячні ельфи.md",
+    "README.md"
   ]
 }
